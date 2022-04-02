@@ -1,3 +1,3 @@
 # Tijuca
 
-Here you can find relevant historical sources about the Tijuca Forest.
+Here you can find historical sources related to the Tijuca National Park
