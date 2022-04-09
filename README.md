@@ -1,3 +1,3 @@
-# Tijuca
+# Tiju.ca
 
-Archive of historical sources related to the Tijuca National Park
+Historical sources related to the Tijuca National Park

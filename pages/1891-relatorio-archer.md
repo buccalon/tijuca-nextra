@@ -1,9 +1,15 @@
-# Relatório dos trabalhos executados na Floresta Nacional da Tijuca de 1º de Janeiro a 31 de Dezembro de 1890.
+# Relatório dos trabalhos executados na Floresta Nacional da Tijuca de 1º de Janeiro a 31 de Dezembro de 1890, por Manuel Gomes Archer
+
+## Contexto
 
 |Arquivo| [Biblioteca Nacional](http://objdigital.bn.br/objdigital2/acervo_digital/div_manuscritos/mss1427958/mss1427958.pdf) |
 |-|-|
 |Autoria|Manuel Gomes Archer|
 |Data|11 de Janeiro de 1891|
+
+## Documento
+
+Relatório dos trabalhos executados na Floresta Nacional da Tijuca de 1º de Janeiro a 31 de Dezembro de 1890.
 
 Em desempenho a um dos deveres inerentes a meu cargo, dirijo-vos este Relatório, em que mais desenvolvidamente traçando os processos de administração por mim empregados, tenho ocasião de vos propôr algumas reformas necessárias ao melhoramento d’esta Floresta Nacional, gradiosa instituição que tantos e tão assignalados serviços tem prestado a higieno pública, argumentando e conservando a pureza dos manaciais; e ao mesmo tempo apresentar-vos diversas ideas relativas ao ramo do serviço público que dirijo.
 
@@ -39,31 +45,31 @@ Demais, nad aimpede que as matas desse local tenham o mesmo destino que estão t
 
 Os trabalhos no ano findo constaram do seguinte:
 
-## Sementeiras
+### Sementeiras
 
 Continuaram os trabalhos das sementeiras, durante o ano, sendo feitos com toda a regularidade e cuidado para a conservação das espécies de árvores de lei que existem nesta Floresta. Foram aumentados os canteiros destinados às sementeiras e há atualmente grande quantidade de plantas germinadas, aptas para serem transportadas para viveiros. Tenho desenvolvido toda a solicitude nesse ramo de serviço, que a meu ver é importantíssimo, podendo ser encarado como a base dos trabalhos florestais.
 
-## Viveiros
+### Viveiros
 
 Foram transportadas das sementeiras para cestinhos de taquara cheios de terra convenientemente extremada sete mil cento e dez mudas de árvores de lei das qualidades seguintes: louro pardo, 844; oleo pardo de copahyba, 
 
-## Plantações
+### Plantações
 
 Plantaram-se em terrenos preparados nos claros da floresta, de 1º de Janeiro a 31 de Dezembro, 18.299 mudas de árvores de lei, cuja classificação e número constam do mapa anexo, ficando assim elevado o número de árvores de lei desta floresta a cerca de 90.000.
 
-## Limpas
+### Limpas
 
 Limparam-se durante o ano cuidadosamente cerca de 81.000 árvores de lei das antigas e modernas plantações, desembaraçando-as de mato bravio, que crescendo-lhes em torno lhes tolhiam o desenvolvimento.
 
-## Covas tapadas
+### Covas tapadas
 
 Foram obstruídas durante o ano passado cerca de mil covas, que existiam abertas neste local e de cujos incovenientes trato no princípio deste relatório.
 
-## Cercas
+### Cercas
 
 Para sanar o perigo proveniente da existência de diversos pereificio beira dos caminhos, foram feitas cercas de madeira rústica, medindo de extensão 113m sobre 1,20m de altura.
 
-## Conservação e abertura de caminhos
+### Conservação e abertura de caminhos
 
 Conservaram-se todos os caminhos, que atravessam a floresta, medindo cerca de 24 kilometros de extensão. Nesta conservação estão incluídos também os trabalhos feitos na estrada da cascatinha, hoje a cargo desta administração, na qual, além da conservação geral, alargaram-se duas curvas afim de facilitar o transito dos carros.
 
@@ -71,17 +77,17 @@ Este trabalho executado em pedra(?) mede em uma das curvas 30m de comprimento so
 
 Além desses trabalhos, prossegue-se na construção de um novo caminho, que, partindo do pátio da Floresta vai entroncar com o caminho do Pico da Tijuca, medindo parte do leito, que está pronpto, 180m, sobre 3m de largura e tendo de aterro 0,30m na media em toda extensão.
 
-## Obras
+### Obras
 
 Construiu-se uma ponte no caminho, que vai do açude a Taquara, tendo 4,80m de comprimento por 3,15m de largura, sendo os pregões construídos de pedra e cimento, medindo, inclusive as cortinas, 20m correntes com a media de 2m de altura e 0,40m de expessura.
 
-## Prédios
+### Prédios
 
 Quanto aos próprios nacionais, que existem nesta Floresta, tenho a vos relatar que desenvolvi os maiores cuidados na sua conservação, mandando fiscalizar excrupulosamente aqueles que são habitados por empregados desta repartição e zelando continuamente pelo que se acha desabitado. Pondo de parte o prédio desta administração, fazem
 
 se necessários diversos concertos nos outros prédios e seria conveniente que o Governo nos facultasse meios para que eles fossem efetuados.
 
-## Pessoal
+### Pessoal
 
 Cumpre-me chegar ao vosso conhecimento, como medida urgente, para o bom andadmento dos negócios desta repartição, a necessidade de ser modificada a tabela de vencimento que é a mesma de há vinte anos, principalmente na parte referente à diária dos trabalhadores.
 
@@ -89,7 +95,7 @@ A tabela é a seguinte: Administrador 2550$000 Escrevente (diária) 3$500 Feitor
 
 A exemplo das outras repartições públicas onde tem-se dado o aumento de vencimento, é de esperar que seja atendida a necessidade de elevação de salário aos trabalhores desta Floresta. Sem isso, nunca poderei dispor senão de um mau pessoal, pois que os bons operarios não se sujeitam a percepção de 1$700 reis diários, quando fora desta Floresta facilmente ganham 2$400 reis e mais.
 
-## Despezas
+### Despezas
 
 A verba concedida pelo Orçamento em vigor do Ministério da Agricultura, Comércio e Obras Públicas para o custeio desta Floresta Nacional é de 23590$000.
 
@@ -105,6 +111,6 @@ Floresta Nacional da Tijuca, 11 de Janeiro de 1891
 
 Manuel Gomes Archer
 
-## Mapa demonstrativo
+### Mapa demonstrativo
 
 Mapa demonstrativo das árvores plantadas na Floresta Nacional da Tijuca de Janeiro a Dezembro de 1891

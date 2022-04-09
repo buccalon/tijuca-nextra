@@ -1,10 +1,18 @@
 # Silvicultura brasileira: Trabalhos da Floresta Nacional da Tijuca, por Miguel Antonio da Silva
 
-|Arquivo| [Biblioteca Nacional](#) |
+## Contexto
+
+|Arquivo| [Biblioteca Nacional](http://memoria.bn.br/docreader/DocReader.aspx?bib=188409&pagfis=295) |
 |-|-|
 |Autoria|Miguel Antonio da Silva|
-|Data|1870|
-|Publicação|Revista Agricola|
+|Data|Setembro de 1870|
+|Publicação|Revista Agrícola do Imperial Instituto Fluminense de Agricultura, n.5|
+
+## Documento
+
+Silvicultura brasileira: Trabalhos da Floresta Nacional da Tijuca
+
+Por Miguel Antonio da Silva
 
 De tão grande utilidade é a floresta estabelecida pelo governo, sob a administração da inspetoria das obras públicas, na serra da Tijuca, que qualquer elogio nosso, encarecendo-a, estaria sempre aquém do seu mérito real.
 
@@ -58,7 +66,7 @@ E, por fallar n'essa questão, de vital interesse para a capital do Imperio, cum
 
 Ao terminar esta noticia sobre a Floresta da Tijuca, apresentaremos ao reconhecimento do publico, que bem o merece, os nomes dos zelosos encarregados d'aquella floresta, á cujos esforços e pericia se deve o alto grao de desenvolvimento em que se acha: os Srs. Majores Dr. Francisco José de Freitas, Ajudante do 3.o districto, e Manoel Gomes Archer, Administrador da Floresta da Tijuca, aos quaes devemos estas informações.
 
-## Espécies
+### Espécies
 
 As especies de arvores de construcção, plantadas n'aquella Floresta, constão da seguinte relação.
 - Acácia (gen. Acacia.)
