@@ -6,7 +6,7 @@
 |Data|1870|
 |Publicação|Revista Agricola|
 
-De tão grande utilidade é a floresta cstabelecida pelo governo, sob a administração da inspectoria das obras publicas, na serra da Tijuca, que qualquer elogio nosso, encarecendo-a, estaria sempre aquem do seu merito real.
+De tão grande utilidade é a floresta estabelecida pelo governo, sob a administração da inspetoria das obras públicas, na serra da Tijuca, que qualquer elogio nosso, encarecendo-a, estaria sempre aquém do seu mérito real.
 
 Entretanto, uma obra tão credora de admiração, tão promettedora de riqueza, parece jazer esquecida, senão ignorada do publico, qual diamante de subido quilate, perdido entre as pedras do corrego. Não póde a Revista Agricola confirmar, calando-se, este injusto silencio. E para que o publico COnheça o que é, e o que vale, a floresta da Tijuca, vamos apresentar em breves traços a noticia historica de sua creação, e dos importantes trabalhos que empregados želosos teem feito para converter as encostas estereis da serrania da Tijuca em copado arvoredo, composto das mais bellas e variadas especies de nossas arvores de construcção, ornamentos das nossas florestas virgens, c quo vão desapparecendo, de dia em dia, ante os golpes mortiferos do machado, au. xiliado pelo tição de fogo. -
 
