@@ -2,14 +2,14 @@
 
 ## Contexto
 
-|Arquivo| [Biblioteca Nacional](http://objdigital.bn.br/objdigital2/acervo_digital/div_manuscritos/mss1427958/mss1427958.pdf) |
+|Acervo| [Biblioteca Nacional](http://objdigital.bn.br/objdigital2/acervo_digital/div_manuscritos/mss1427958/mss1427958.pdf) |
 |-|-|
 |Autoria|Manuel Gomes Archer|
 |Data|11 de Janeiro de 1891|
 
 ## Documento
 
-Relatório dos trabalhos executados na Floresta Nacional da Tijuca de 1º de Janeiro a 31 de Dezembro de 1890.
+__Relatório dos trabalhos executados na Floresta Nacional da Tijuca de 1º de Janeiro a 31 de Dezembro de 1890__
 
 Em desempenho a um dos deveres inerentes a meu cargo, dirijo-vos este Relatório, em que mais desenvolvidamente traçando os processos de administração por mim empregados, tenho ocasião de vos propôr algumas reformas necessárias ao melhoramento d’esta Floresta Nacional, gradiosa instituição que tantos e tão assignalados serviços tem prestado a higieno pública, argumentando e conservando a pureza dos manaciais; e ao mesmo tempo apresentar-vos diversas ideas relativas ao ramo do serviço público que dirijo.
 

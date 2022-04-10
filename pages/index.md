@@ -11,4 +11,5 @@ Olá! Este é um repositório de documentos históricos sobre o [Parque Nacional
 #### Links
 
 - [Relatórios do Ministério da Agricultura (1860-1960)](http://ddsnext.crl.edu/titles/108)
+- [Arquivo Nacional: Fundo 'Administração da Floresta da Tijuca'](http://dibrarq.arquivonacional.gov.br/index.php/administracao-da-floresta-da-tijuca-2)
 - [Biblioteca Alceo Magnanini](http://parquenacionaldatijuca.rio/acervo/)

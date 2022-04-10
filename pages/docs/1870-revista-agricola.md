@@ -2,7 +2,7 @@
 
 ## Contexto
 
-|Arquivo| [Biblioteca Nacional](http://memoria.bn.br/docreader/DocReader.aspx?bib=188409&pagfis=295) |
+|Acervo| [Biblioteca Nacional](http://memoria.bn.br/docreader/DocReader.aspx?bib=188409&pagfis=295) |
 |-|-|
 |Autoria|Miguel Antonio da Silva|
 |Data|Setembro de 1870|
@@ -10,15 +10,15 @@
 
 ## Documento
 
-Silvicultura brasileira: Trabalhos da Floresta Nacional da Tijuca
+__Silvicultura brasileira: Trabalhos da Floresta Nacional da Tijuca__
 
 Por Miguel Antonio da Silva
 
 De tão grande utilidade é a floresta estabelecida pelo governo, sob a administração da inspetoria das obras públicas, na serra da Tijuca, que qualquer elogio nosso, encarecendo-a, estaria sempre aquém do seu mérito real.
 
-Entretanto, uma obra tão credora de admiração, tão promettedora de riqueza, parece jazer esquecida, senão ignorada do publico, qual diamante de subido quilate, perdido entre as pedras do corrego. Não póde a Revista Agricola confirmar, calando-se, este injusto silencio. E para que o publico COnheça o que é, e o que vale, a floresta da Tijuca, vamos apresentar em breves traços a noticia historica de sua creação, e dos importantes trabalhos que empregados želosos teem feito para converter as encostas estereis da serrania da Tijuca em copado arvoredo, composto das mais bellas e variadas especies de nossas arvores de construcção, ornamentos das nossas florestas virgens, c quo vão desapparecendo, de dia em dia, ante os golpes mortiferos do machado, au. xiliado pelo tição de fogo. -
+Entretanto, uma obra tão credora de admiração, tão prometedora de riqueza, parece jazer esquecida, senão ignorada do público, qual diamante de subido quilate, perdido entre as pedras do corrego. Não pode a Revista Agrícola confirmar, calando-se, este injusto silêncio. E para que o publico conheça o que é, e o que vale, a floresta da Tijuca, vamos apresentar em breves traços a notícia histórica de sua criação, e dos importantes trabalhos que empregados zelosos tem feito para converter as encostas estéreis da serrania da Tijuca em copado arvoredo, composto das mais belas e variadas espécies de nossas árvores de construção, ornamentos das nossas florestas virgens, e que vão desaparecendo, de dia em dia, ante os golpes mortíferos do machado, auxiliado pelo tição de fogo.
 
-Em Janeiro de 1862, inicios-se os primeiros trabalhos da formação destafloresta, pondo-se em execução as instrucções provisorias de 11 de Dezembro de 1861, feitas pelo Sr. conselheiro Dr. Manoel Felizardo de Souza e Mello, de saudosa memoria. Quatro africanos livres, tres dos quaes de idade, avançada forão os auxiliares para esse trabalho; postos á disposição pelo ministerio da agriculta. Em Maio do referido anno foi o pessoal de trabalhadores elevado á 11, e nesse numero conservado todo o anno. .
+Em Janeiro de 1862, iniciou-se os primeiros trabalhos da formação desta floresta, pondo-se em execução as [instruções provisórias de 11 de Dezembro de 1861](1861-portaria-577), feitas pelo Sr. conselheiro Dr. Manoel Felizardo de Souza e Mello, de saudosa memória. Quatro africanos livres, três dos quais de idade avançada foram os auxiliares para esse trabalho; postos à disposição pelo ministério da agricultura. Em Maio do referido ano foi o pessoal de trabalhadores elevado a 11, e nesse número conservado todo o ano.
 
 Durante o anno de 1862, plantou-se 13,617 mudas de arvores, das quaes não vingarão 3,398, conservando-se portanto 10,219, que medrarão.
 
