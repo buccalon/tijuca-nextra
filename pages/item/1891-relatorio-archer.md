@@ -51,7 +51,7 @@ Continuaram os trabalhos das sementeiras, durante o ano, sendo feitos com toda a
 
 ### Viveiros
 
-Foram transportadas das sementeiras para cestinhos de taquara cheios de terra convenientemente extremada sete mil cento e dez mudas de árvores de lei das qualidades seguintes: louro pardo, 844; oleo pardo de copahyba, 
+Foram transportadas das sementeiras para cestinhos de taquara cheios de terra convenientemente extrumada sete mil cento e dez mudas de árvores de lei das qualidades seguintes: louro pardo, 844; oleo pardo de copahyba, 743; vinhatico, 836; oleo de copahiba, 44; Santa Luzia, 840; Jacarandá cabina, 380; araribá, 580; mirindiba, 225; eucalyptus, 1241; oleo vermelho, 40; oleo vinhatico, 43; ipê tabaco, 326; guarajuba, 83; paineiras, 157; cangerana, 20; canella amarella, 29; genipapo, 229; ipê caboclo, 80; Fizeram-se 9.310 cestinhos de taquara para os viveiros.
 
 ### Plantações
 
