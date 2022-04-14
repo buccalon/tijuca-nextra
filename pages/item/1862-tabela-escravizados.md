@@ -10,12 +10,12 @@
 
  ## Documento
 
- ![Quadro 11](http://ddsnext.crl.edu/services/image-stream/39/00/f2/d5/-d/b2/6-/42/2f/-a/2a/7-/7a/f0/38/44/06/27/000500.tiff/pct:0,5,100,50/900,/0/default.jpg)
+ ![Quadro 11](/docs/1862-tabela-escravizados-01.jpeg)
 
- ![Quadro 12.1](http://ddsnext.crl.edu/services/image-stream/39/00/f2/d5/-d/b2/6-/42/2f/-a/2a/7-/7a/f0/38/44/06/27/000501.tiff/pct:0,3,100,90/1936,/0/default.jpg)
+ ![Quadro 12.1](/docs/1862-tabela-escravizados-02.jpeg)
 
- ![Quadro 12.2](http://ddsnext.crl.edu/services/image-stream/39/00/f2/d5/-d/b2/6-/42/2f/-a/2a/7-/7a/f0/38/44/06/27/000502.tiff/pct:0,19,100,74/1984,/0/default.jpg)
+ ![Quadro 12.2](/docs/1862-tabela-escravizados-03.jpeg)
 
- ![Quadro 12.3](http://ddsnext.crl.edu/services/image-stream/39/00/f2/d5/-d/b2/6-/42/2f/-a/2a/7-/7a/f0/38/44/06/27/000503.tiff/pct:0,19,100,74/900,/0/default.jpg)
+ ![Quadro 12.3](/docs/1862-tabela-escravizados-04.jpeg)
 
 
