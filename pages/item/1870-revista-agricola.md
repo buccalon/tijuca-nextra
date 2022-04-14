@@ -20,23 +20,23 @@ Entretanto, uma obra tão credora de admiração, tão prometedora de riqueza, p
 
 Em Janeiro de 1862, iniciou-se os primeiros trabalhos da formação desta floresta, pondo-se em execução as [instruções provisórias de 11 de Dezembro de 1861](1861-portaria-577), feitas pelo Sr. conselheiro Dr. Manoel Felizardo de Souza e Mello, de saudosa memória. Quatro africanos livres, três dos quais de idade avançada foram os auxiliares para esse trabalho; postos à disposição pelo ministério da agricultura. Em Maio do referido ano foi o pessoal de trabalhadores elevado a 11, e nesse número conservado todo o ano.
 
-Durante o anno de 1862, plantou-se 13,617 mudas de arvores, das quaes não vingarão 3,398, conservando-se portanto 10,219, que medrarão.
+Durante o ano de 1862, plantou-se 13.617 mudas de árvores, das quais não vingaram 3.398, conservando-se portanto 10.219, que medraram.
 
-0 methodo empregado naquella época, no plantio das arvores, cra o seguinte: depois de roçado o mato e preparado o terreno, destinado para a plantação, abrião-se cóvas com profundidade conveniente para receber as mudas, e distantes umas das outras dos intervallos necessarios.
+O método empregado naquela época, no plantio das árvores, era o seguinte: depois de roçado o mato e preparado o terreno, destinado para a plantação, abriam-se covas com profundidade conveniente para receber as mudas, e distantes umas das outras dos intervalos necessários.
 
-Das matas circumvizinhas erão arrancadas as arvorộtas, que tinhão de ser transplantadas, as quaes, segundo as instrucções, devião ser do tamanho de 1,m10 á 1,032, pouco mais ou menos.
+Das matas circunvizinhas eram arrancadas as arvorêtas, que tinham de ser transplantadas, as quais, segundo as instrucções, deviam ser do tamanho de 1.10m a 1.32m, pouco mais ou menos.
 
-As arvorezinhas sendo tiradas dos arredores, ás vezes de grande distancia, de terrenos alcantilados e escabrosos, onde á custo se ia ter, chegavão ordinariamente ao sólo, onde devião ser plantadas, em tal estado de máo trato, que lhes avisinhava muito o termo de sua existencia, como de facto se verificava pela grande mortalidade que soffrião as mudas, transplantadas nestas condições.
+As arvorezinhas sendo tiradas dos arredores, às vezes de grande distância, de terrenos alcantilados e escabrosos, onde á custo se ia ter, chegavão ordinariamente ao sólo, onde devião ser plantadas, em tal estado de máo trato, que lhes avisinhava muito o termo de sua existencia, como de facto se verificava pela grande mortalidade que soffrião as mudas, transplantadas nestas condições.
 
 Durante o anno de 1863, não havendo ainda sementeiras, nem viveiros, proseguio ainda o mesino processo imperfeito de arrancar as mudas nas matas circumvizinhas, procurando-se todavia minorar tanto, quanto possivel, o methodo já por si vicioso; nesse anno, forão plantadas 4,829 mudas de arvores, das quaes deixarão de vingar 1,029, e medrarão 3,800. Os trabalhadores empregados neste serviço, no anno de 1862, não excederão á 20, inclusive os africanos, já mencionados, que pouco fazião, por grande numero de annos que lhes pesava . sobre a cabeça.
 
-Em 1864, as mudas plantadas subirão ao numero de 5,034, das quaes esca-" párão 4,436, morrendo apenas 599. O numero de trabalhadores, nesse anno, foi de 16, termo médio.
+Em 1864, as mudas plantadas subiram ao número de 5.034, das quais escaparam 4.436, morrendo apenas 599. O número de trabalhadores, nesse ano, foi de 16, termo médio.
 
-Em 1865, plantou-se 12,451 mudas; morrerão 4,489 e crescerão 7,562.
+Em 1865, plantou-se 12.451 mudas; morrerão 4.489 e crescerão 7.562.
 
-Do mez de Janeiro ao de Setembro, forão empregados 19 trabalhadores, termo inédio, e de Setembro até ao fim do anno somente 7.
+Do mez de Janeiro ao de Setembro, forão empregados 19 trabalhadores, termo inédio, e de Setembro até ao fim do ano somente 7.
 
-Do mez de Janeiro de 1866 em diante o pessoal foi reduzido, por ordem da inspecção geral das obras publicas, á 4 trabalhadores, inclusive o feitor. Esta reducção, motivada, por certo, por economia, veio paralysar o incremento, que a nascente instituição ia tomando, e é tanto mais de lastimal-a, tão severa economia, quanto ella occasionou a perda quasi total de tantos esforços já adquiridos desde o anno de 1862, e nessa perda vai incluida tambem a somma pecuniaria despendida. Com essa diminuição no pessoal da floresta, a maior parte das arvores morrerão á mingoa de tratamento. Entretanto, apezar de pessoal tão diminuto, plantou-se 3,120 mudas de arvores, das quaes morrerão 2,999; o que não é de estranhar, attenta a economia.
+Do mês de Janeiro de 1866 em diante o pessoal foi reduzido, por ordem da Inspecção Geral das obras Públicas, a 4 trabalhadores, inclusive o feitor. Esta redução, motivada, por certo, por economia, veio paralizar o incremento, que a nascente instituição ia tomando, e é tanto mais de lastimal-a, tão severa economia, quanto ela occasionou a perda quase total de tantos esforços já adquiridos desde o ano de 1862, e nessa perda vai incluída também a soma pecuniária despendida. Com essa diminuição no pessoal da floresta, a maior parte das árvores morreram à mingoa de tratamento. Entretanto, apesar de pessoal tão diminuto, plantou-se 3.120 mudas de árvores, das quais morreram 2.999; o que não é de estranhar, atenta a economia.
 
 No seguinte anno, de 1867, forão plantadas 6,238 mudas; destas deixarão de medrar 5,411. Note-se que de Janeiro á Junho desse anno o pessoal coustou dos mesmos 4 trabalhadores, sendo de Junho em diante elevado ao numero de 10.
 
@@ -60,15 +60,16 @@ A utilidade das florestas nas cercanias das cidades é de toda a evidencia; o be
 
 Em nossa opinião, o bello exemplo fornecido pela Floresta nacional da Tijuca deveria ser seguido e applicado em diversos outros pontos das montanhas, que cercão a nossa capital, e que se vão escalvando com a derrubada do arvoredo para fabricar carvão; das montanhas deveria descer o plantio das arvores para as praças, para as ruas mais largas, e principalmente as que seguem ao longo do littoral.
 
-São tão conhecidas as vantagens hygienicas que resultão das arvores 30bre a salubridade publica, que não cansaremos o leitor, escrevendo-as; lembraremos unicamente que a falta d'agua, que soffre a cidade do Rio de Janeiro, cuja principal causa é a imperfeição das obras que a recolhem incompletamente, tenderia a augmentar de volume com as florestas que cobrissem suas nascentes.
+São tão conhecidas as vantagens higiênicas que resultam das àrvores sobre a salubridade pública, que não cansaremos o leitor, escrevendo-as; lembraremos unicamente que a falta d'água, que sofre a cidade do Rio de Janeiro, cuja principal causa é a imperfeição das obras que a recolhem incompletamente, tenderia a aumentar de volume com as florestas que cobrissem suas nascentes.
 
-E, por fallar n'essa questão, de vital interesse para a capital do Imperio, cumpre, por dever de justiça, consignar nas paginas desta Revista a bella serie de artigos, que sobre o abastecimento d'agua desta cidade publicou ultimamente, no Jornal do Commercio, um illustrado professional sob o pseudonymo de Aquario: esses artigos magistraes, inspirados pelo interesse, que sempre desperta nos bons espiritos a discussão das questões de actualidade que se prendem á utilidade publica, é um thesouro deimmenso valor, e que deverá ser consultado sempre, tanto pelo administrador como pelo homem professional, quando se tratar, seriamente, de resolver o problema de abastacimento d'agua da capital.
+E, por falar nessa questão, de vital interesse para a capital do Império, cumpre, por dever de justiça, consignar nas páginas desta Revista a bela serie de artigos, que sobre o abastecimento d'água desta cidade publicou ultimamente, no Jornal do Comércio, um illustrado professional sob o pseudônimo de Aquário: esses artigos magistrais, inspirados pelo interesse, que sempre desperta nos bons espíritos a discussão das questões de atualidade que se prendem à utilidade pública, é um tesouro de imenso valor, e que deverá ser consultado sempre, tanto pelo administrador como pelo homem professional, quando se tratar, seriamente, de resolver o problema de abastacimento d'água da capital.
 
 Ao terminar esta noticia sobre a Floresta da Tijuca, apresentaremos ao reconhecimento do publico, que bem o merece, os nomes dos zelosos encarregados d'aquella floresta, á cujos esforços e pericia se deve o alto grao de desenvolvimento em que se acha: os Srs. Majores Dr. Francisco José de Freitas, Ajudante do 3.o districto, e Manoel Gomes Archer, Administrador da Floresta da Tijuca, aos quaes devemos estas informações.
 
 ### Espécies
 
-As especies de arvores de construcção, plantadas n'aquella Floresta, constão da seguinte relação.
+As especies de árvores de construcção, plantadas naquela Floresta, constam da seguinte relação.
+
 - Acácia (gen. Acacia.)
 - Angelim rosa (gen. Andira.)
 - Arapóca (Galipea dichotoma.)
@@ -115,7 +116,8 @@ As especies de arvores de construcção, plantadas n'aquella Floresta, constão 
 - Vinhatico (Echyrospermum Balthasarii.)
 - Xixá (Sterculia fetida.)
 
-Destas arvores de lei as que maior desenvolvimento teem tido são as seguintes:
+Destas árvores de lei as que maior desenvolvimento tem tido são as seguintes:
+
 - Angelim rosa
 - Arco de pipa
 - Cangerana

@@ -6,7 +6,7 @@
 |-|-|
 |Autoria|Manoel Felizardo de Souza e Mello|
 |Data|11 de Dezembro de 1861|
-|Publicação|Relatório do Ministério da Agricultura, Comércio e Obras Publicas|
+|Publicação|Relatório do Ministério da Agricultura, Comércio e Obras Públicas|
 
  ## Documento
 
@@ -34,16 +34,16 @@ As mudas que se empregarem não terão menos de três anos, nem mais de 15 de id
 Para dirigir este serviço haverá um Administrador na floresta da Tijuca e outro na das Paineiras, con o vencimento mensal de 90$000.
 
 ### Art. 6
-Além destes empregados haverá um feitor em cada floresta, encarregado especialmente da plantação e escolha das mudas, com o vencimento diario de 2$000, e tantos serventes quantos forem julgados necessários, conforme o desenvolvimento do serviço com o vencimento tambem diário de 1$500.
+Além destes empregados haverá um feitor em cada floresta, encarregado especialmente da plantação e escolha das mudas, com o vencimento diário de 2$000, e tantos serventes quantos forem julgados necessários, conforme o desenvolvimento do serviço com o vencimento tambem diário de 1$500.
 
 ### Art. 7
-O Inspetor Geral das Obras Publicas poderá empregar neste serviço, como serventes, alguns dos escravos da nação que se acham à sua disposição, com a gratificação de 100 réis diários, além do sustento e roupa.
+O Inspetor Geral das Obras Públicas poderá empregar neste serviço, como serventes, alguns dos escravos da nação que se acham à sua disposição, com a gratificação de 100 réis diários, além do sustento e roupa.
 
 ### Art. 8
 Aos Administradores, feitores e serventes das florestas, incumbe impedir a danificação das árvores, devendo prender e remeter à autoridade policial mais vizinha para ser processada a pessoa que for encontrada em flagrante delito.
 
 ### Art. 9
-Empregarão todo o zelo na conservação das estradas que atravessam ou atravessarem as florestas; não admitindo dentro das últimas indivíduo algum que não esteja competentemente autorizado com a necessaria portaria de licença, quer seja ou não para caçar, e inspecionando-as de modo que não sirvam de azilo a mal feitores.
+Empregarão todo o zelo na conservação das estradas que atravessam ou atravessarem as florestas; não admitindo dentro das últimas indivíduo algum que não esteja competentemente autorizado com a necessária portaria de licença, quer seja ou não para caçar, e inspecionando-as de modo que não sirvam de asilo a mal feitores.
 
 ### Art. 10
 Os Administradores serão de nomeação do Ministro e Secretário de Estado dos Negócios da Agricultura, Comércio e Obras Públicas; os outros empregados serão nomeados pelo Inspetor Geral das Obras Públicas do municipio da Corte, e por ele despedidos conforme as exigências do serviço.
@@ -61,7 +61,7 @@ Quando houver necessidade de qualquer material, os Administradores farão um ped
 Os guardas das matas coutadas e encanamentos coadjuvarão os Administradores em tudo que for relativo ao serviço das florestas e em harmonia com as suas respectivas obrigações, prestando-se às suas requisições sempre que as necessidades do mesmo serviço exigirem.
 
 ### Art. 15
-Os Administradores e mais empregados serão obrigados a residir nos lugares que Ihes forem designados para o trabalho ordinário de todos os dias, podendo ser transferidos temporariamente de um ponto para outro sempro que for isso necessário.
+Os Administradores e mais empregados serão obrigados a residir nos lugares que Ihes forem designados para o trabalho ordinário de todos os dias, podendo ser transferidos temporariamente de um ponto para outro sempre que for isso necessário.
 
 ### Art. 16
 É expressamente proibido o corte de madeiras de qualquer qualidade, ficando por isso responsáveis os Administradores, guardas das matas e mais empregados.
