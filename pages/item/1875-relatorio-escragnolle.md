@@ -1,4 +1,4 @@
-# Silvicultura brasileira: Trabalhos da Floresta Nacional da Tijuca, por Miguel Antonio da Silva
+# Relatório da Administração da Floresta da Tijuca, em 10 de Janeiro de 1875, por Gastão d'Escragnolle
 
 ## Contexto
 
