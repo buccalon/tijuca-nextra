@@ -31,7 +31,7 @@ A plantação se fará em linhas retas paralelas entre si, sendo as de uma dire�
 As mudas que se empregarem não terão menos de três anos, nem mais de 15 de idade, e poderão ser coligidas nas matas das Paineiras, devendo a plantação ter lugar na estação própria.
 
 ### Art. 5
-Para dirigir este serviço haverá um Administrador na floresta da Tijuca e outro na das Paineiras, con o vencimento mensal de 90$000.
+Para dirigir este serviço haverá um Administrador na floresta da Tijuca e outro na das Paineiras, com o vencimento mensal de 90$000.
 
 ### Art. 6
 Além destes empregados haverá um feitor em cada floresta, encarregado especialmente da plantação e escolha das mudas, com o vencimento diário de 2$000, e tantos serventes quantos forem julgados necessários, conforme o desenvolvimento do serviço com o vencimento tambem diário de 1$500.
