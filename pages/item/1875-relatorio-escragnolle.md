@@ -38,17 +38,17 @@ Com o pessoal, composto de 1 feitor e 22 trabalhadores, despenderam-se de Julho 
 
 Tratando do pessoal não posso deixar de ponderar que o salário de 1$500 diários, concedido aos trabalhadores da floresta é evidentemente insuficiente; só o hábito pode explicar a permanência de alguns que sem dificuldade achariam fora do estabelecimento melhor remuneração, tanto mais se se atender que seus companheiros de trabalho, os da conservação dos caminhos, são mais bem aquinhoados. Compreende-se a conveniência de reter homens que se acham já educados no trato, todo especial, das plantas e que só se consegue depois de longa prática.
 
-Cumpre-me também chamar a atenção sobre a insuficiência do pessoal, já não digo para empreender novos trabalhos mas tão somente conservar o que existe (22 homensalém do feitor) daquele número deve-se atender que estão ocupados na colheita de sementes 1, na escrituração 1, como carroceiro 1, no trato dos animais 1, exclusivamente ocupados nos viveiros 2; se ainda deduzirmos as faltas por moléstia ou outro qualquer motivo, teremos um efectivo de 12 homens apenas, com o qual é absolutamente impossível cuidar das árvores já plantadas e que tanto precisam ser protegidas nos primeiros anos. Propondo o número de 30 homens além do feitor, como reiteradas vezes foi pedido pelo meu antecessor, fico ainda aquém do necessário, pois que o serviço tem aumentado e tende sempre a aumentar como convém para a prosperidade do estabelecimento.
+Cumpre-me também chamar a atenção sobre a insuficiência do pessoal, já não digo para empreender novos trabalhos mas tão somente conservar o que existe (22 homens além do feitor) daquele número deve-se atender que estão ocupados na colheita de sementes 1, na escrituração 1, como carroceiro 1, no trato dos animais 1, exclusivamente ocupados nos viveiros 2; se ainda deduzirmos as faltas por moléstia ou outro qualquer motivo, teremos um efectivo de 12 homens apenas, com o qual é absolutamente impossível cuidar das árvores já plantadas e que tanto precisam ser protegidas nos primeiros anos. Propondo o número de 30 homens além do feitor, como reiteradas vezes foi pedido pelo meu antecessor, fico ainda aquém do necessário, pois que o serviço tem aumentado e tende sempre a aumentar como convém para a prosperidade do estabelecimento.
 
 Os dois animais do serviço da floresta tem sido bem tratados e acham-se em condições de ainda prestar serviços.
 
 É de absoluta necessidade regularizar o pagamento dos cestinhos, assim como a ferragem dos animais, o modo por que é feito hoje é o mais inconveniente possivel.
 
-Fizeram-se no período de minha administrirão 5.254 cestinhos.
+Fizeram-se no período de minha administração 5.254 cestinhos.
 
 ### Caminhos
 
-O serviço da conservação e reparação dos caminhos, boeiros, etc., está a cargo de um empregado da floresta, debaixo de minha imediata inspeção.
+O serviço da conservação e reparação dos caminhos, bueiros, etc., está a cargo de um empregado da floresta, debaixo de minha imediata inspeção.
 
 O que acima disse acerca da floresta tem igual aplicação quanto à conserva: o seu pessoal composto de 1 condutor, 9 trabalhadores e um guarda é insuficiente; com tão pouca gente é impossivel obter-se serviço regular, e muito menos encetar um sistema de viação através da mata, ligando entre si os diferentes pontos da floresta, como tanto conviria para facilitar o tratamento das árvores.
 
