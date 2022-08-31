@@ -1,4 +1,4 @@
-# Carta à redação do Jornal O Globo, em resposta a matéria publicada sobre Raymundo Ottoni de Castro Maya, por Paulo de Souza, chefe da Seção de Parques Nacionais do Servico Florestal
+# Carta à redação do Jornal O Globo, em resposta a matéria publicada sobre Raymundo Ottoni de Castro Maya, por Paulo de Souza, chefe da Seção de Parques Nacionais do Serviço Florestal
 
 ## Contexto
 
@@ -28,4 +28,4 @@ Diz o Sr. Castro Maya que há muito tempo se bate pela idéia da criação do De
 
 Prova evidente de que o Sr. Castro Maya está mal informado quanto à finalidade dos nossos grandes Parques Nacionais é que tanto o Serviço Florestal, como a Diretoria de Obras do Ministério da Agricultura, está, fazendo os projetos de construção, e aquele, superintendendo a execução dos mesmos, mantêm estreita ligação com os respectivos Serviços dos Estados Unidos e do Canadá.
 
-Aí ficam, portanto, os esclarecimentos indispensáveis para a retificação da entrevista concedida pelo Sr. Castro Maya, que, lamentavelmente, parece ignorar os trabalhos que Serviço Florestal vêm reallzando no território nacional. Agradecendo-vos pela publicação da presente, subscrevo-me, cordialmente, (a.) Paulo de Souza, chefe da Seção de Parques Nacionais do Servico Florestal. 
+Aí ficam, portanto, os esclarecimentos indispensáveis para a retificação da entrevista concedida pelo Sr. Castro Maya, que, lamentavelmente, parece ignorar os trabalhos que Serviço Florestal vêm reallzando no território nacional. Agradecendo-vos pela publicação da presente, subscrevo-me, cordialmente, (a.) Paulo de Souza, chefe da Seção de Parques Nacionais do Serviço Florestal. 
