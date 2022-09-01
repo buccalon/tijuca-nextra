@@ -1,4 +1,4 @@
-# N. 577 Agricultura, Comércio e Obras Públicas, Portaria de 11 de Dezembro de 1861, por Manoel Felizardo de Souza e Mello
+# Portaria n. 577 do Ministério da Agricultura, Comércio e Obras Públicas, de 11 de Dezembro de 1861, por Manoel Felizardo de Souza e Mello
 
 
 ## Contexto
