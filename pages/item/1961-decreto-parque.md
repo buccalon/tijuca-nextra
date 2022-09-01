@@ -1,17 +1,17 @@
-# Decreto n. 50.923, de 6 de Julho de 1961
+# Decreto n. 50.923, de 6 de Julho de 1961, por Romero Cabral da Costa
 
 ## Contexto
 
-|Acervo| [Câmara dos Deputados](https://www2.camara.leg.br/legin/fed/decret/1960-1969/decreto-50923-6-julho-1961-391130-publicacaooriginal-1-pe.html)] |
+|Acervo| [Câmara dos Deputados](https://www2.camara.leg.br/legin/fed/decret/1960-1969/decreto-50923-6-julho-1961-391130-publicacaooriginal-1-pe.html) |
 |-|-|
-|Autoria|Romero Costa|
+|Autoria|Romero Cabral da Costa|
 |Data|6 de Julho de 1961|
 
 ## Documento
 
 __DECRETO Nº 50.923, DE 6 DE JULHO DE 1961__
 
-Cria o Parque Nacional do Rio de Janeiro, no Estado da Guanabara.
+_Cria o Parque Nacional do Rio de Janeiro, no Estado da Guanabara._
 
 O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87,item I, da Constituição Federal e,
 

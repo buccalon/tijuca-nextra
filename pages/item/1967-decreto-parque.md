@@ -1,8 +1,8 @@
-# Decreto n. 60.183, de 8 de Fevereiro de 1967
+# Decreto n. 60.183, de 8 de Fevereiro de 1967, por Severo Fagundes Gomes
 
 ## Contexto
 
-|Acervo| [Câmara dos Deputados](https://www2.camara.leg.br/legin/fed/decret/1960-1969/decreto-60183-8-fevereiro-1967-401706-publicacaooriginal-1-pe.html)] |
+|Acervo| [Câmara dos Deputados](https://www2.camara.leg.br/legin/fed/decret/1960-1969/decreto-60183-8-fevereiro-1967-401706-publicacaooriginal-1-pe.html) |
 |-|-|
 |Autoria|Severo Fagundes Gomes|
 |Data|8 de Fevereiro de 1967|
@@ -11,7 +11,7 @@
 
 __DECRETO Nº 60.183, DE 8 DE FEVEREIRO DE 1967__
 
-Altera o nome do Parque Nacional do Rio de Janeiro, criado pelo Decreto nº 50.923, de 6 de julho de 1961, para Parque Nacional da Tijuca, (PNT), com as dimensões e demais características previstas no presente Decreto, e dá outras providências.
+_Altera o nome do Parque Nacional do Rio de Janeiro, criado pelo Decreto nº 50.923, de 6 de julho de 1961, para Parque Nacional da Tijuca, (PNT), com as dimensões e demais características previstas no presente Decreto, e dá outras providências._
 
 O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
 
