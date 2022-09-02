@@ -1,4 +1,4 @@
-# Carta à redação do Jornal O Globo, em resposta a matéria publicada sobre Raymundo Ottoni de Castro Maya, por Paulo de Souza, chefe da Seção de Parques Nacionais do Serviço Florestal
+# Carta à redação d'O Globo, sobre a entrevista com Raymundo Ottoni de Castro Maya, por Paulo de Souza, chefe da Seção de Parques Nacionais do Serviço Florestal
 
 ## Contexto
 
