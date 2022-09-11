@@ -1,4 +1,8 @@
+import CloverIIIF from "@samvera/clover-iiif"
+
 # Relatório dos trabalhos executados na Floresta Nacional da Tijuca de 1º de Janeiro a 31 de Dezembro de 1890, por Manuel Gomes Archer
+
+<CloverIIIF manifestId="https://iiif.tiju.ca/1891-relatorio-archer" />
 
 ## Contexto
 
