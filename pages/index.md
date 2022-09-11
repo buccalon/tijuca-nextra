@@ -1,15 +1,7 @@
-# Tiju.ca
+# Tiju.ca - Floresta Arquivo
 
-import Bleed from 'nextra-theme-docs/bleed'
+![Fotografia de Marc Ferrez, circa 1885](../public/image.png)
 
-<Bleed full>
-  ![Fotografia de Marc Ferrez, circa 1885](image.png)
-</Bleed>
+Olá! __Tiju.ca__ é um projeto de história pública sobre o [Parque Nacional da Tijuca](https://pt.wikipedia.org/wiki/Parque_Nacional_da_Tijuca) (PNT), que reúne documentação sob a guarda de diversas instituições brasileiras e estrangeiras. Aqui disponibilizamos reproduções digitais de documentos físicos em vários suportes (incluindo telas, gravuras e fotografias), assim como transcrições, traduções, artigos e ensaios de pesquisadores dedicados ao tema.
 
-Olá! Este é um repositório de documentos históricos sobre o [Parque Nacional da Tijuca](https://pt.wikipedia.org/wiki/Parque_Nacional_da_Tijuca). Aqui você encontra transcrições de fontes primárias, com grafia atualizada e listadas em ordem cronológica. No início de cada página existe um link para o documento original. Sugestões podem ser enviadas por [email](mailton:buccalon@rice.edu).
-
-#### Links
-
-- [Relatórios do Ministério da Agricultura (1860-1960)](http://ddsnext.crl.edu/titles/108)
-- [Arquivo Nacional: Fundo 'Administração da Floresta da Tijuca'](http://dibrarq.arquivonacional.gov.br/index.php/administracao-da-floresta-da-tijuca-2)
-- [Biblioteca Alceo Magnanini](http://parquenacionaldatijuca.rio/acervo/)
+Este é um ambiente de pesquisa feito para educadores, estudantes, turistas e moradores interessados na história do PNT. Nosso objetivo é divulgar e garantir a verificabilidade da pesquisa histórica, sempre respeitando os limites impostos pelas leis de direito autoral. A curadoria dos conteúdos é definida por um [conselho editorial](team) e sugestões podem ser enviadas por [email](mailton:buccalon@rice.edu).

@@ -4,7 +4,7 @@ module.exports = {
         "./components/**/*.js",
         "./pages/**/*.md",
         "./pages/**/*.mdx",
-        "./theme.config.js",
+        "./theme.config.tsx",
         "./styles.css",
     ]
 };
