@@ -1,5 +1,49 @@
 {
-  "index": "Introdução",
-  "team": "Quem Somos",
-  "item": "Documentos"
+  "index": {
+    "title": "Sobre",
+    "type": "page",
+    "theme": {
+      "layout": "full",
+      "sidebar": false,
+      "toc": true,
+      "footer": false,
+      "breadcrumb": false,
+      "timestamp": false,
+      "typesetting": "article"
+    }
+  },
+  "team": {
+    "title": "Equipe",
+    "type": "page",
+    "theme": {
+      "sidebar": false,
+      "toc": true,
+      "footer": false,
+      "breadcrumb": false,
+      "timestamp": false,
+      "typesetting": "article"
+    }
+  },
+  "item": {
+    "title": "Documentos",
+    "type": "page",
+    "theme": {
+      "sidebar": true,
+      "toc": true,
+      "footer": true,
+      "breadcrumb": false
+    }
+  },
+  "map": {
+    "title": "Mapa",
+    "type": "page",
+    "theme": {
+      "layout": "full",
+      "sidebar": false,
+      "toc": false,
+      "footer": false,
+      "timestamp": false,
+      "breadcrumb": false
+    }
+  }
 }
