@@ -6,12 +6,12 @@ export default {
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <meta httpEquiv="Content-Language" content="en" />
             <meta name="description" content="Conheça a história do Parque Nacional da Tijuca" />
-            <meta name="twitter:card" content="image-og.jpg" />
-            <meta name="twitter:image" content="image-og.jpg" />
+            <meta name="twitter:card" content="/image-og.jpg" />
+            <meta name="twitter:image" content="/image-og.jpg" />
             <meta name="twitter:site" content="Tiju.ca" />
             <meta property="og:title" content="Tiju.ca - Floresta Arquivo" />
             <meta property="og:description" content="Conheça a história do Parque Nacional da Tijuca" />
-            <meta property="og:image" content="image-og.jpg" />
+            <meta property="og:image" content="/image-og.jpg" />
             <meta name="apple-mobile-web-app-title" content="Tiju.ca" />
         </>
     ),
